@@ -9,3 +9,4 @@ sudo git clone git://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugin
 rm ~/.zshrc
 wget https://raw.githubusercontent.com/Hugo-Gao/Linux-tools/e7af6fa6f3b9c308a21831fb641022a635688576/.zshrc
 sudo chsh -s /bin/zsh
+source ~/.zshrc
